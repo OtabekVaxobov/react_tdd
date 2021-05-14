@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "repository": "git@github.com:OtabekVaxobov/react_tdd.git",
   "author": "OtabekVaxobov",
   "license": "MIT",
   "scripts": {
