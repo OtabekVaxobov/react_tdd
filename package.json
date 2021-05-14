@@ -1,7 +1,7 @@
 {
   "name": "react_tdd",
   "version": "0.1.0",
-  "description": "TDDing a React app on live stream",
+  "description": "",
   "main": "index.js",
   "repository": "git@github.com:OtabekVaxobov/react_tdd.git",
   "author": "OtabekVaxobov",
